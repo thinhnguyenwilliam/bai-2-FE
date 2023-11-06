@@ -1,0 +1,55 @@
+<table>
+        <thead>
+            <tr>
+                <th>hàng 0 cột 0</th>
+                <th>hàng 0 cột 1</th>
+                <th>hàng 0 cột 2</th>
+                <th>hàng 0 cột 3</th>
+                <th>hàng 0 cột 4</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="6">hàng 1 cột 0</td>
+                <td rowspan="4">hàng 1 cột 1</td>
+                <td rowspan="3">hàng 1 cột 2</td>
+                <td>hàng 1 cột 3</td>
+                <td>hàng 1 cột 4</td>
+            </tr>
+            <tr>
+                <!-- <td>hàng 2 cột 0</td> -->
+                <!-- <td>hàng 2 cột 1</td> -->
+                <!-- <td>hàng 2 cột 2</td> -->
+                <td>hàng 2 cột 3</td>
+                <td>hàng 2 cột 4</td>
+            </tr>
+            <tr>
+                <!-- <td>hàng 3 cột 0</td> -->
+                <!-- <td>hàng 3 cột 1</td> -->
+                <!-- <td>hàng 3 cột 2</td> -->
+                <td>hàng 3 cột 3</td>
+                <td>hàng 3 cột 4</td>
+            </tr>
+            <tr>
+                <!-- <td>hàng 4 cột 0</td> -->
+                <!-- <td>hàng 4 cột 1</td> -->
+                <td>hàng 4 cột 2</td>
+                <td>hàng 4 cột 3</td>
+                <td>hàng 4 cột 4</td>
+            </tr>
+            <tr>
+                <!-- <td>hàng 5 cột 0</td> -->
+                <td rowspan="2">hàng 5 cột 1</td>
+                <td rowspan="2">hàng 5 cột 2</td>
+                <td>hàng 5 cột 3</td>
+                <td>hàng 5 cột 4</td>
+            </tr>
+            <tr>
+                <!-- <td>hàng 6 cột 0</td> -->
+                <!-- <td>hàng 6 cột 1</td> -->
+                <!-- <td>hàng 6 cột 2</td> -->
+                <td>hàng 6 cột 3</td>
+                <td>hàng 6 cột 4</td>
+            </tr>
+        </tbody>
+    </table>
